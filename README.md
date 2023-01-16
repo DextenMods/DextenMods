@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @DextenMods
-- 👀 I’m Addon Maker
-- 🌱 I’m currently learning JavaScript,HTML
+ ---------------------------
+ -☕ I’m DextenMods**
+ -💼 I’m Addon Maker**
+ -📕 I’m learning JS ,Py, C#**
+ ---------------------------
 
 <!---
 DextenMods/DextenMods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
